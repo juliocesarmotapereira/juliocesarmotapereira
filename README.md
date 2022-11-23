@@ -1,9 +1,9 @@
 - Hi, I’m @juliocesarmotapereira
 
 ## Sobre
-Sou um Desenvolvedor Front-End com conhecimentos básicos e práticos na área de tecnologia. 
+Bem-vindo ao meu perfil!
 
-A minha transição de carreira aconteceu em outubro de 2022, tenho experiência na área comercial no setor de atendimento, vendas e audiovisual, com graduação no curso superior de tecnologia em marketing. 
+Sou Desenvolvedor Front-End com conhecimentos básicos e práticos na área de tecnologia, a minha transição de carreira aconteceu em julho de 2022, tenho experiência na área comercial no setor de atendimento, vendas e audiovisual, com graduação no curso superior de tecnologia em marketing. 
 
 Minhas ferramentas de trabalho que estou praticando:
 - JavaScript
@@ -16,3 +16,5 @@ Minhas ferramentas de trabalho que estou praticando:
 
 Tecnologias que estou aprendendo: 
 - React5
+
+<hr>
