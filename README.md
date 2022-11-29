@@ -14,6 +14,6 @@ Minhas principais ferramentas de trabalho:
 - Netlify 
 
 Tecnologias que estou aprendendo: 
-- React5
+- React
 
 <hr>
