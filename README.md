@@ -1,10 +1,8 @@
-# Olá 👋, Chamo-me Júlio César Mota Pereira
+# Olá, Chamo-me Júlio César Mota Pereira
 
-Desenvolvedor Front-End com conhecimentos básicos e práticos na área de tecnologia, a minha transição de carreira aconteceu em julho de 2022, tenho experiência na área comercial no setor de atendimento, vendas e audiovisual, com acompanhamento no curso superior de tecnologia em marketing.
+Desenvolvedor Front-End com graduação de tecnologia em marketing, focado em desenvolvimento de projetos web, tenho experiência na área comercial nos setores de atendimento ao cliente, vendas e audiovisual.
 
-## 💫 Liitle Bit More About Me
-
-## 💻 Skills
+## Skills
 <p>
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" style="margin-bottom: 4px;" height="30px">
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" style="margin-bottom: 4px;" height="30px">
@@ -14,12 +12,12 @@ Desenvolvedor Front-End com conhecimentos básicos e práticos na área de tecno
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" style="margin-bottom: 4px;" height="30px">
 </p>
 
-## 👥 Connect With Me
+## Connect With Me
 <p>
 <a href="https://linkedin.com/in/juliocesarmotapereira/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
 </p>
 
-## 📊 Github Status
+## Github Status
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=juliocesarmotapereira&show_icons=true"><p>
 
