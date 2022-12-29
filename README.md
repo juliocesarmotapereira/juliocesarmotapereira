@@ -1,6 +1,6 @@
 ## About
 
-Desenvolvedor Front-End, formado em marketing, focado em desenvolvimento de projetos front-end, tenho experiência na área comercial nos setores de atendimento ao cliente, vendas e audiovisual.
+Desenvolvedor Front-End, formado em marketing, nasci em Lagoa da Prata - MG, mais fui criado em São Caetano do Sul - SP, a minha carreira na área de tecnologia está na prática de desenvolvimento de projetos front-end, e assim estar sempre se especializando, e com o tempo ir aprimorando o back-end. No momento estou finalizando os cursos intensivo do Programa ONE, construindo o meu portfólio profissional fazendo códigos dia após dia e melhorando as minhas softs e hard skills.
 
 https://juliocesarmotapereira.github.io/
 
