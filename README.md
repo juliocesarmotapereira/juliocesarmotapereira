@@ -1,6 +1,6 @@
 ## About
 
-Desenvolvedor Front-End com graduação de tecnologia em marketing, focado em desenvolvimento de projetos web, tenho experiência na área comercial nos setores de atendimento ao cliente, vendas e audiovisual.
+Desenvolvedor Front-End, formado em marketing, focado em desenvolvimento de projetos front-end, tenho experiência na área comercial nos setores de atendimento ao cliente, vendas e audiovisual.
 
 https://juliocesarmotapereira.github.io/
 
