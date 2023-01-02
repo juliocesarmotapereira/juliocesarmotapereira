@@ -1,6 +1,6 @@
 ## About
 
-Desenvolvedor Front-End, formado em marketing, nasci em Lagoa da Prata - MG, mais fui criado em São Caetano do Sul - SP, a minha carreira na área de tecnologia está na prática de desenvolvimento de projetos front-end, e assim estar sempre se especializando, e com o tempo ir aprimorando o back-end. No momento estou finalizando os cursos intensivo do Programa ONE, construindo o meu portfólio profissional fazendo códigos dia após dia e melhorando as minhas softs e hard skills.
+Desenvolvedor Front-End, tenho 38 anos, sou casado e pai de um filho de 6 anos, formado em marketing, sou uma pessoa curioso por tecnologia a minha carreira na área está na prática de desenvolvimento de projetos front-end, no momento estou finalizando programa ONE, construindo o meu portfólio fazendo códigos dia após dia e melhorando as minhas softs e hard skills.
 
 https://juliocesarmotapereira.github.io/
 
