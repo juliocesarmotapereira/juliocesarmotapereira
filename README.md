@@ -1,6 +1,6 @@
 ## About
 
-Desenvolvedor Front-End, tenho 38 anos, sou casado e pai de um filho de 6 anos, formado em marketing, sou uma pessoa curioso por tecnologia a minha carreira na área está na prática de desenvolvimento de projetos front-end, no momento estou finalizando programa ONE, construindo o meu portfólio fazendo códigos dia após dia e melhorando as minhas softs e hard skills.
+Desenvolvedor Front-End, tenho 38 anos, casado e pai de um filho de 6 anos, formado em marketing, sou uma pessoa curioso por tecnologia a minha carreira na área está na prática de desenvolvimento de projetos com html, css e javascript, no momento estou finalizando programa ONE e construindo o meu portfólio fazendo códigos dia após dia e melhorando as minhas soft e hard skills.
 
 https://juliocesarmotapereira.github.io/
 
