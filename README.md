@@ -16,7 +16,12 @@ https://juliocesarmotapereira.github.io/
 -->
 
 <p align="center">
-  <img width="460" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliocesarmotapereira&layout=compact=true&theme=dark&hide_border=true&border_radius=4&date_format=j%20M%5B%20Y%5D"> 
+  
+<img width="460" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliocesarmotapereira&langs_count=8&layout=compact=true&theme=dark&hide_border=true&border_radius=4&date_format=j%20M%5B%20Y%5D">
   
   <img width="460" height="300" src="https://streak-stats.demolab.com?user=juliocesarmotapereira&theme=dark&hide_border=true&border_radius=4&date_format=j%20M%5B%20Y%5D">  
 </p>
+
+
+
+
