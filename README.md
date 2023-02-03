@@ -1,6 +1,6 @@
 ### Bem-vindo(a) ao meu GitHub
 
-Olá sou Júlio, aqui estão os meus projetos em desenvolvimento da evolução da minha carreira como Desenvolvedor Junior. 
+Olá sou Júlio, aqui estão os meus projetos em desenvolvimento da evolução da minha carreira como Dev. 
  
   
  <img height="170rem" src="https://streak-stats.demolab.com?user=juliocesarmotapereira&theme=dark&hide_border=true&border_radius=4&date_format=j%20M%5B%20Y%5D"> 
